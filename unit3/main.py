@@ -1,8 +1,9 @@
 import random
 
+N = input("How many flips would you like? : ")
+N = int(N)
 
 
-N = 100
 numheads = 0
 
 #roll = random.randint(1,6)
