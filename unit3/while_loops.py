@@ -11,7 +11,7 @@ import random
         
 #print (heads)
 sumsum = 0
-N = 100
+N = 10
 
 Timesrolled = 0
 while Timesrolled < 5:
